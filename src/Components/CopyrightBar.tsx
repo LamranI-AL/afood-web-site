@@ -63,8 +63,8 @@ const CopyrightBar = ({
   ],
   copyright = "© 2025 Medeclipse. All rights reserved.",
   bottomLinks = [
-    { text: "Conditions d'utilisation", url: "/legal" },
-    { text: "Politique de confidentialité", url: "/legal" },
+    { text: "Conditions d'utilisation", url: "/terms" },
+    { text: "Politique de confidentialité", url: "/privacy" },
   ],
 }: Footer2Props) => {
   return (
